@@ -1,0 +1,42 @@
+.container{
+    max-width: $container-xl;
+    margin: 0 auto;
+    padding: 36px 16px;
+
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+    overflow: hidden;
+
+    @include responsive(s){
+      flex-direction: column;
+      align-items: flex-start;
+
+      padding-top: 144px;
+
+      height: auto;
+    }
+}
+
+.container-item-1{
+    max-width: 580px;
+
+    @include responsive(s){
+      max-width: 960px;
+      order: 2;
+    }
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+
+.container-item-2{
+  flex-grow: 5;
+
+}
