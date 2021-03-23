@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/static/v1?label=author&message=pedrovinhas&color=EA1D22&labelColor=0A0C10">
   <img src="https://img.shields.io/static/v1?label=languages&message=3&color=EA1D22&labelColor=0A0C10">
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=EA1D22&labelColor=0A0C10">
-  <img src="https://img.shields.io/github/last-commit/pedrovinhas/spiderman?color=EA1D22&labelColor=0A0C10">
+  <img src="https://img.shields.io/github/last-commit/pedrovinhas/spider-man?color=EA1D22&labelColor=0A0C10">
 </p>
 
 <div align="center">
